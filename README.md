@@ -2,4 +2,5 @@
 
 <h4>Página com o efeito de light e dark mode.</h4>
 
-<a href="http://127.0.0.1:5500/index.html">Link da pagina para melhor visualização</a>
+<a href="https://viniciussilver.github.io/Dark_Mode/
+">Link da pagina para melhor visualização</a>
